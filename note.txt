@@ -1,0 +1,6 @@
+# Install PostgreSQL
+# Avoid Stack Builder
+# Enter and remember password & port 
+# PSQL Shell & pgAdmin4 copy to desktop
+# Start PSQL Shell
+# Enter password
