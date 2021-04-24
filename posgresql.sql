@@ -1,7 +1,7 @@
 --information
 \?
 --information for help
-\help
+help
 --list of database
 \list
 --quit database
